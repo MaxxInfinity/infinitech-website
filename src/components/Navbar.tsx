@@ -10,6 +10,7 @@ export default function Navbar() {
     { name: 'Industries', href: '#industries' },
     { name: 'Portfolio', href: '#portfolio' },
     { name: 'About', href: '#about' },
+    { name: 'Team', href: '#team' },
     { name: 'Contact', href: '#contact' },
   ]
 

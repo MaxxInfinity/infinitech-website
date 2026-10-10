@@ -9,6 +9,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import AuditForm from './components/AuditForm'
 import Footer from './components/Footer'
+import Team from './components/Team'
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Portfolio />
         <Process />
         <Pricing />
+        <Team />
         <About />
         <Contact />
         <AuditForm />

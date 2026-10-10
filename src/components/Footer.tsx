@@ -126,6 +126,12 @@ export default function Footer() {
   <MessageCircle size={18} className="text-[#00C2FF]" />
   Facebook
 </a>
+<a
+  href="tel:+263780037355"
+  className="transition hover:text-[#00C2FF]"
+>
+  +263 780 037 355
+</a>
             </div>
           </div>
         </div>

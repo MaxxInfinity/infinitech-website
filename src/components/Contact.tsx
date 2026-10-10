@@ -3,6 +3,7 @@ import {
   ArrowUpRight,
   AtSign,
   Mail,
+  Phone,
   MessageCircle,
   MapPin,
 } from 'lucide-react'
@@ -53,6 +54,13 @@ export default function Contact() {
                 icon={<MapPin size={21} />}
                 title="Visit Us"
                 text="2369 St Mary's, Chitungwiza"
+              />
+
+              <ContactCard
+                icon={<Phone size={21} />}
+                title="Call Us"
+                text="+263 78 003 7355"
+                href="tel:+263780037355"
               />
 
               <ContactCard
