@@ -10,6 +10,7 @@ import Contact from './components/Contact'
 import AuditForm from './components/AuditForm'
 import Footer from './components/Footer'
 import Team from './components/Team'
+import WhyChooseUs from './components/WhyChooseUs'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Services />
         <Industries />
         <Portfolio />
+        <WhyChooseUs />
         <Process />
         <Pricing />
         <Team />
